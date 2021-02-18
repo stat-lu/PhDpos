@@ -16,7 +16,7 @@ Here the student has a
 Here the students has a
   * MSc in mathematics, statistics, computer science, biostatistics or physics
   * Sound knowledge of applied statistics (linear models, Bayesian statistics)
-  * Strong programing skills (R and/or C++)
+  * Strong programming skills (R and/or C++)
   * Ability to work  in an interdisciplinary team at the interface of genetics, computer science, and statistics.
 
 ## Project Description
