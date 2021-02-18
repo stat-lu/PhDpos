@@ -35,4 +35,3 @@ References:
 
 
 
-![Lund](UnivSymbol.jpg)
