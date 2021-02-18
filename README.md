@@ -33,4 +33,4 @@ References:
 7. [J. Wallin, M. Bogdan, P. A. Szulc, R.W. Doerge, and D.O. Siegmund. Ghost QTL and Hotspots in experimental crosses— novel approach for modeling polygenic effects. Genetics, 2021. doi:10.1093/genetics/iyaa041.](https://academic.oup.com/genetics/advance-article/doi/10.1093/genetics/iyaa041/6067404)
 8. [J. Larsson, M. Bogdan, and J. Wallin. The strong screening rule for SLOPE. Advances in Neural Information Processing Systems 33 preproceedings (NeurIPS 2020), 2020.](https://papers.nips.cc/paper/2020/file/a7d8ae4569120b5bec12e7b6e9648b86-Paper.pdf)
 
-<img src="Figure4_simple_1190.png" width="450"> <img src="Figure4_mixed_1190.png" width="450"> 
+<img src="Figure4_simple_1190.png" width="400"> <img src="Figure4_mixed_1190.png" width="400"> 
