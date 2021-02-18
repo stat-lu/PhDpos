@@ -1,3 +1,4 @@
+![SLOPE BALL](image_slope_balls.png)
 ## PhD position 
 We are annoncing a fully founded PhD position witihn a project for model selection for high dimensional data, with application towards genetics, at Lund University.
 The two main coordinater of the project are [Matgorzata Bogdan](https://www.researchgate.net/profile/Matgorzata_Bogdan) and [Jonas Wallin](https://www.researchgate.net/profile/Jonas_Wallin).
