@@ -1,12 +1,26 @@
-## Ph.d. position in Model selection for high dimensional data with applications toward genetics
+#
 
-You can use the [editor on GitHub](https://github.com/stat-lu/PhDpos/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+We are annoncing a fully founded PhD position witihn a project for model selection for high dimensional data, with application towards genetics, at Lund University.
+The two main coordinater of the project are [Matgorzata Bogdan](https://www.researchgate.net/profile/Matgorzata_Bogdan) and [Jonas Wallin](https://www.researchgate.net/profile/Jonas_Wallin).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We are looking for a student that fits in one of following two tracks witinh statistics:
+#### biostatics track
+Here the students has a
+  *  MSc in mathematics of statistics
+  *  Strong mathematical skills (probability, functional analysis, linear algebra)
+  *  Some experince in programming 
+
+#### mathematical track:
+Here the students has a
+  * MSc in mathematics, statistics, computer science, biostatistics or physics
+  * Sound knowledge of applied statistics (linear models, Bayesian statistics) 
+  * Strong programing skills (R and/or C++ )
+  * Ability to work  in an interdisciplinary team at the interface of genetics, computer science and statistics.
+
 
 
 ## Project description: 
-In her previous projects (see [1], [2]) we developed SLOPE, the convex model selection and estimation method for high-dimensional statistical problems.  Recently, we also developed an Adaptive Bayes version of SLOPE (ABSLOPE) [3], which allows for incorporation of the prior knowledge and can handle latent variables, like the missing data. Despite of several important articles pointing at desired properties of  SLOPE (see[4],[5],[6]), the mathematical theory of SLOPE is still undeveloped. The PhD candidate who selects the mathematical statistics path of the project will be involved in the development of new mathematical results concerning asymptotic properties of SLOPE and ABSLOPE, including asymptotic control of the false discovery rate or investigation of the prediction accuracy.
+In previous projects (see [1], [2]) we developed SLOPE, the convex model selection and estimation method for high-dimensional statistical problems.  Recently, we also developed an Adaptive Bayes version of SLOPE (ABSLOPE) [3], which allows for incorporation of the prior knowledge and can handle latent variables, like the missing data. Despite of several important articles pointing at desired properties of  SLOPE (see[4],[5],[6]), the mathematical theory of SLOPE is still undeveloped. The PhD candidate who selects the mathematical statistics path of the project will be involved in the development of new mathematical results concerning asymptotic properties of SLOPE and ABSLOPE, including asymptotic control of the false discovery rate or investigation of the prediction accuracy.
 The applied part of the project will be mainly concerned with gene identification. In our recent article [7] we have shown that oversimplified statistical models may lead to the detection of many false discoveries. We have also illustrated that this problem can be solved by adding a random effect, describing the polygenic background. In the present project we plan to extend this approach to handle the variability of the polygenic background along the chromosome. The estimation problem will be addressed by developing the appropriate version of ABSLOPE. This will require also speeding up the ABSLOPE algorithm. The PhD student who selects the applied path will be involved in the research on speeding the algorithm (see e.g. [8]) and/or developing methodology for gene identification.
 
 References:
@@ -20,36 +34,3 @@ References:
 8. [J. Larsson, M. Bogdan, and J. Wallin. The strong screening rule for SLOPE. Advances in Neural Information Processing Systems 33 preproceedings (NeurIPS 2020), 2020.](https://papers.nips.cc/paper/2020/file/a7d8ae4569120b5bec12e7b6e9648b86-Paper.pdf)
 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/stat-lu/PhDpos/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
