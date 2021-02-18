@@ -20,7 +20,7 @@ Here the students has a
 
 
 ## Project description: 
-In previous projects (see [1], [2]) we developed SLOPE, the convex model selection and estimation method for high-dimensional statistical problems.  Recently, we also developed an Adaptive Bayes version of SLOPE (ABSLOPE) [3], which allows for incorporation of the prior knowledge and can handle latent variables, like the missing data. Despite of several important articles pointing at desired properties of  SLOPE (see[4],[5],[6]), the mathematical theory of SLOPE is still undeveloped. The PhD candidate who selects the mathematical statistics path of the project will be involved in the development of new mathematical results concerning asymptotic properties of SLOPE and ABSLOPE, including asymptotic control of the false discovery rate or investigation of the prediction accuracy.
+In previous projects (see [1], [2]) we developed SLOPE, the convex model selection and estimation method for high-dimensional statistical problems. Various versions of the "SLOPE ball" can be seen in the figure on the top of the page.  Recently, we also developed an Adaptive Bayes version of SLOPE (ABSLOPE) [3], which allows for incorporation of the prior knowledge and can handle latent variables, like the missing data. Despite of several important articles pointing at desired properties of  SLOPE (see[4],[5],[6]), the mathematical theory of SLOPE is still undeveloped. The PhD candidate who selects the mathematical statistics path of the project will be involved in the development of new mathematical results concerning asymptotic properties of SLOPE and ABSLOPE, including asymptotic control of the false discovery rate or investigation of the prediction accuracy.
 The applied part of the project will be mainly concerned with gene identification. In our recent article [7] we have shown that oversimplified statistical models may lead to the detection of many false discoveries. We have also illustrated that this problem can be solved by adding a random effect, describing the polygenic background. In the present project we plan to extend this approach to handle the variability of the polygenic background along the chromosome. The estimation problem will be addressed by developing the appropriate version of ABSLOPE. This will require also speeding up the ABSLOPE algorithm. The PhD student who selects the applied path will be involved in the research on speeding the algorithm (see e.g. [8]) and/or developing methodology for gene identification.
 
 References:
@@ -34,6 +34,6 @@ References:
 8. [J. Larsson, M. Bogdan, and J. Wallin. The strong screening rule for SLOPE. Advances in Neural Information Processing Systems 33 preproceedings (NeurIPS 2020), 2020.](https://papers.nips.cc/paper/2020/file/a7d8ae4569120b5bec12e7b6e9648b86-Paper.pdf)
 
 
-![ghostQTL](ghostQTL2.pdf)
+![ghostQTL](ghostQTL2.png)
 
 
