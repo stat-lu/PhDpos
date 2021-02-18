@@ -34,6 +34,6 @@ References:
 8. [J. Larsson, M. Bogdan, and J. Wallin. The strong screening rule for SLOPE. Advances in Neural Information Processing Systems 33 preproceedings (NeurIPS 2020), 2020.](https://papers.nips.cc/paper/2020/file/a7d8ae4569120b5bec12e7b6e9648b86-Paper.pdf)
 
 
-![ghostQTL](ghostQTL2.pdf)
+![ghostQTL](ghostQTL2.png)
 
 
