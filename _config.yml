@@ -1,7 +1,3 @@
 theme: jekyll-theme-minimal
 title: [Model selection for high dimensional data with applications toward genetics]
-header:
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-  actions:
-    - label: "More Info"
-      url: "https://unsplash.com"
+site.description: test editing here
