@@ -10,7 +10,7 @@ Here the students has a
   *  Strong mathematical skills (probability, functional analysis, linear algebra)
   *  Some experince in programming 
 
-#### mathematical track:
+#### mathematical track
 Here the students has a
   * MSc in mathematics, statistics, computer science, biostatistics or physics
   * Sound knowledge of applied statistics (linear models, Bayesian statistics) 
