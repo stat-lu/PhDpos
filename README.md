@@ -1,4 +1,4 @@
-## Homepage for Ph.d. position in 
+## Ph.d. position in Model selection for high dimensional data with applications toward genetics
 
 You can use the [editor on GitHub](https://github.com/stat-lu/PhDpos/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
