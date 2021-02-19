@@ -1,28 +1,43 @@
 ![SLOPE BALL](image_slope_balls.png)
 
 ## PhD Position
-We are announcing a fully funded PhD position within a project for model selection for high dimensional data, with applications towards genetics, at Lund University.
-The two main coordinators of the project are [Matgorzata Bogdan](https://www.researchgate.net/profile/Matgorzata_Bogdan) and [Jonas Wallin](https://www.researchgate.net/profile/Jonas_Wallin).
+We invite applications for a fully funded PhD position with a project on model selection for high dimensional data with applications 
+in genetics at Lund University. The two main coordinators of the project are  [Małgorzata Bogdan](https://www.researchgate.net/profile/Matgorzata_Bogdan) and [Jonas Wallin](https://www.researchgate.net/profile/Jonas_Wallin).
 
-We are looking for a student that fits into one of the following two tracks within statistics:
 
-#### Biostatics Track
-Here the student has a
-  *  MSc in mathematics or statistics
-  *  Strong mathematical skills (probability, functional analysis, linear algebra)
-  *  Some experince in programming
+We are looking for a student who fits into one of the following two directions in statistics:
 
-#### Mathematical Track
+#### biostatics track
 Here the students has a
   * MSc in mathematics, statistics, computer science, biostatistics or physics
-  * Sound knowledge of applied statistics (linear models, Bayesian statistics)
-  * Strong programming skills (R and/or C++)
-  * Ability to work  in an interdisciplinary team at the interface of genetics, computer science, and statistics.
+  * Sound knowledge of applied statistics (linear models, Bayesian statistics) 
+  * Strong programing skills (R and/or C++ )
+  * Ability to work  in an interdisciplinary team at the interface of genetics, computer science and statistics.
+
+
+#### mathematical track
+Here the students has a
+  *  MSc in mathematics of statistics
+  *  Strong mathematical skills (probability, functional analysis, linear algebra)
+  *  Some experince in programming 
 
 ## Project Description
-In previous projects (see [1], [2]) we developed SLOPE: the convex model selection and estimation method for high-dimensional statistical problems. Various versions of the "SLOPE ball" can be seen in the figure on the top of the page.  Recently, we also developed an Adaptive Bayes version of SLOPE (ABSLOPE) [3], which allows for incorporation of prior knowledge and can handle latent variables, like missing data. Despite of several important articles pointing at desired properties of  SLOPE (see [4], [5], and [6]), the mathematical theory of SLOPE is still undeveloped. The PhD candidate who selects the mathematical statistics path of the project will be involved in the development of new mathematical results concerning asymptotic properties of SLOPE and ABSLOPE, including asymptotic control of the false discovery rate or investigations into prediction accuracy.
+In previous projects (see [1], [2]), we developed SLOPE, the convex model selection and estimation procedure for high-dimensional 
+statistical problems. Different versions of the "SLOPE ball" can be seen in the figure at the top of the page. Recently, we have also 
+developed an Adaptive Bayes version of SLOPE (ABSLOPE) [3] that allows the incorporation of prior knowledge and can handle latent variables 
+ such as missing data. Despite several important articles pointing out desirable properties of SLOPE (see [4], [5], [6]), the mathematical
+ theory of SLOPE is not yet fully developed. The PhD student who chooses the mathematical-statistical route of the project will be involved
+ in the development of new mathematical results concerning the asymptotic properties of SLOPE and ABSLOPE, including the asymptotic control
+ of the false discovery rate or the study of the prediction accuracy.
 
-The applied part of the project will be mainly concerned with gene identification. In our recent article [7] we have shown that oversimplified statistical models may lead to substantial numbers of false discoveries.  We have also illustrated that this problem can be solved by adding a random effect, describing the polygenic background. The difference between the two methods is shown at the bottom of the page where the top of the figures is the classical method and the bottom of the figures is our new method. In the present project we plan to extend this approach to handle the variability of the polygenic background along the chromosome. The estimation problem will be addressed by developing the appropriate version of ABSLOPE. This will require also speeding up the ABSLOPE algorithm. The PhD student who selects the applied path will be involved in the research on speeding the algorithm (see e.g. [8]) and/or developing methodology for gene identification.
+The applied part of the project will mainly deal with gene identification. In our recent article [7], we showed that over-simplified 
+statistical models can lead to many false gene discoveries. We also showed that this problem can be solved by adding a random effect 
+describing the polygenic background. The difference between the two methods is shown at the bottom of the page, with the top of the figures
+ illustrating the results of the classical method and the bottom of the figures illustrating our new method. In the present project, we 
+plan to extend this approach to deal with the variability of polygenic background along the chromosome. The estimation problem will be
+ addressed by developing a suitable version of ABSLOPE. This will also require speeding up the ABSLOPE algorithm. The PhD student who 
+chooses the applied route will be involved in research to accelerate the algorithm (see e.g. [8]) and/or in the development of a 
+methodology for gene identification.
 
 ## References
 1. [M. Bogdan, E. van den Berg, C. Sabatti, W. Su, and E. J. Candes. SLOPE – adaptive variable selection via convex optimization. Annals of Applied Statistics, 9(3):1103–1140, 2015.](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-9/issue-3/SLOPEAdaptive-variable-selection-via-convex-optimization/10.1214/15-AOAS842.full)
