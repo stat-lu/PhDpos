@@ -1,3 +1,7 @@
+## NOTE
+
+**This advertisement is obsolete and the position has been filled.**
+
 ![SLOPE BALL](image_slope_balls.png)
 
 ## PhD Position
